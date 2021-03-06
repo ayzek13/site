@@ -33,8 +33,3 @@ function setRatingActiveWidth(index = ratingValue.innerHTML) {
 		ratingActive.style.width = `${ratingActiveWidth}%`;
 	}
 }
-
-
-
-
-
